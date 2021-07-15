@@ -6,7 +6,7 @@ const User = db.define("user", {
         type: DataTypes.STRING(100),
         allowNull: false
     },
-    flastName: {
+    lastName: {
         type: DataTypes.STRING(100),
         allowNull: false
     },
