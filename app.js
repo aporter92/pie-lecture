@@ -1,3 +1,4 @@
+require("dotenv").config();
 const Express = require("express")
 //Imports Express dependency into the application
 const app = Express()
